@@ -1,0 +1,10 @@
+C:\Users\ghula\source\repos\TollApp\TollApp\obj\Debug\TollApp.csprojAssemblyReference.cache
+C:\Users\ghula\source\repos\TollApp\TollApp\obj\Debug\TollApp.csproj.CoreCompileInputs.cache
+C:\Users\ghula\source\repos\TollApp\TollApp\bin\Debug\TollApp.exe.config
+C:\Users\ghula\source\repos\TollApp\TollApp\bin\Debug\TollApp.exe
+C:\Users\ghula\source\repos\TollApp\TollApp\bin\Debug\TollApp.pdb
+C:\Users\ghula\source\repos\TollApp\TollApp\bin\Debug\log4net.dll
+C:\Users\ghula\source\repos\TollApp\TollApp\bin\Debug\log4net.xml
+C:\Users\ghula\source\repos\TollApp\TollApp\obj\Debug\TollApp.csproj.CopyComplete
+C:\Users\ghula\source\repos\TollApp\TollApp\obj\Debug\TollApp.exe
+C:\Users\ghula\source\repos\TollApp\TollApp\obj\Debug\TollApp.pdb
